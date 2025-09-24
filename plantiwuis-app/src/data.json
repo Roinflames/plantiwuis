@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Echeveria laui",
+        "family": "Crassulaceae",
+        "care": "Requires bright, indirect sunlight and well-draining soil. Water sparingly, allowing the soil to dry out completely between waterings.",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "name": "Sedum morganianum (Burro's Tail)",
+        "family": "Crassulaceae",
+        "care": "Prefers bright, indirect light. Water every 2-3 weeks. Be careful not to overwater.",
+        "stock": 23
+    },
+    {
+        "id": 3,
+        "name": "Haworthia cooperi",
+        "family": "Asphodelaceae",
+        "care": "Thrives in bright, indirect light. Water when the soil is dry to the touch.",
+        "stock": 12
+    }
+]
