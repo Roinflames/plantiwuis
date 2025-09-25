@@ -11,7 +11,8 @@ const PlantList = ({ searchTerm, selectedFamily }) => {
 
   const filteredPlants = plants
     .filter(plant =>
-      plant.name.toLowerCase().includes(searchTerm.toLowerCase())
+      plant.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      (plant.variety && plant.variety.toLowerCase().includes(searchTerm.toLowerCase()))
     )
     .filter(plant =>
       selectedFamily === 'All' ? true : plant.family === selectedFamily

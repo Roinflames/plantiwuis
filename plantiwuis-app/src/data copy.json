@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Echeveria laui",
+        "variety": null,
+        "family": "Crassulaceae",
+        "care": "Requiere luz solar brillante e indirecta y suelo con buen drenaje. Riegue con moderación, permitiendo que la tierra se seque completamente entre riegos.",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "name": "Sedum morganianum",
+        "variety": "Burro's Tail",
+        "family": "Crassulaceae",
+        "care": "Prefiere luz brillante e indirecta. Riegue cada 2-3 semanas. Tenga cuidado de no regar en exceso.",
+        "stock": 23
+    },
+    {
+        "id": 3,
+        "name": "Haworthia cooperi",
+        "variety": null,
+        "family": "Asphodelaceae",
+        "care": "Prospera con luz brillante e indirecta. Riegue cuando la tierra esté seca al tacto.",
+        "stock": 12
+    }
+]

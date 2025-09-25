@@ -1,23 +1,162 @@
 [
     {
-        "id": 1,
-        "name": "Echeveria laui",
-        "family": "Crassulaceae",
-        "care": "Requires bright, indirect sunlight and well-draining soil. Water sparingly, allowing the soil to dry out completely between waterings.",
-        "stock": 15
+        "id": 77116,
+        "name": "Evergreen oak",
+        "variety": null,
+        "family": "Fagaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
     },
     {
-        "id": 2,
-        "name": "Sedum morganianum (Burro's Tail)",
-        "family": "Crassulaceae",
-        "care": "Prefers bright, indirect light. Water every 2-3 weeks. Be careful not to overwater.",
-        "stock": 23
+        "id": 109482,
+        "name": "Common nettle",
+        "variety": null,
+        "family": "Urticaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
     },
     {
-        "id": 3,
-        "name": "Haworthia cooperi",
-        "family": "Asphodelaceae",
-        "care": "Thrives in bright, indirect light. Water when the soil is dry to the touch.",
-        "stock": 12
+        "id": 227114,
+        "name": "Barnyard grass",
+        "variety": null,
+        "family": "Poaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 128860,
+        "name": "Narrow-leaf plantain",
+        "variety": null,
+        "family": "Plantaginaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 11971,
+        "name": "Milfoil",
+        "variety": null,
+        "family": "Asteraceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 51662,
+        "name": "Dutch clover",
+        "variety": null,
+        "family": "Fabaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 230202,
+        "name": "Yorkshire-fog",
+        "variety": null,
+        "family": "Poaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 122042,
+        "name": "Creeping buttercup",
+        "variety": null,
+        "family": "Ranunculaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 77107,
+        "name": "Pedunculate oak",
+        "variety": null,
+        "family": "Fagaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 229588,
+        "name": "Red fescue",
+        "variety": null,
+        "family": "Poaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 221416,
+        "name": "European ash",
+        "variety": null,
+        "family": "Oleaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 1999,
+        "name": "California thistle",
+        "variety": null,
+        "family": "Asteraceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 51657,
+        "name": "Cowgrass clover",
+        "variety": null,
+        "family": "Fabaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 257312,
+        "name": "Beech",
+        "variety": null,
+        "family": "Fagaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 208738,
+        "name": "Soft rush",
+        "variety": null,
+        "family": "Juncaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 121255,
+        "name": "Meadow buttercup",
+        "variety": null,
+        "family": "Ranunculaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 265334,
+        "name": "Hawthorn",
+        "variety": null,
+        "family": "Rosaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 106738,
+        "name": "Garden sorrel",
+        "variety": null,
+        "family": "Polygonaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 155762,
+        "name": "Heather",
+        "variety": null,
+        "family": "Ericaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
+    },
+    {
+        "id": 262017,
+        "name": "Meadowsweet",
+        "variety": null,
+        "family": "Rosaceae",
+        "care": "Información de cuidado no disponible desde Trefle. Añadir manualmente.",
+        "stock": 10
     }
 ]
