@@ -1,11 +1,17 @@
 
 import requests
 import json
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+secret = os.getenv("secret")
 
 all_families = []
 for i in range(1, 36):
     print(f"Fetching page {i}...")
-    response = requests.get(f"https://trefle.io/api/v1/families?token=84o7VK-4_MRDsnt_ahEJRp_5tPkyICXTs8zJjWCeTIc&page={i}")
+    secret = ""
+    response = requests.get(f"https://trefle.io/api/v1/families?token=", secret ,"&page={i}")
     data = response.json()
     if 'data' in data:
         all_families.extend(data['data'])
